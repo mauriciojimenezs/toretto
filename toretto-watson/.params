@@ -1,0 +1,10 @@
+{
+"CONVERSATION_USERNAME": "apikey",
+"CONVERSATION_PASSWORD": "pj5v3rAihr4htvdq8TYeSJ1FCzy3vtkdKlG8RYqgZ5Lh",
+"WORKSPACE_ID": "6db69915-378b-45c5-bd62-3973b2c6f2aa",
+"REDIS_URI": "redis-13623.c8.us-east-1-4.ec2.cloud.redislabs.com",
+"facebook_verification_token": "esto_es_una_prueba",
+"page_access_token": "EAAhZAQtbktiQBAJyRhJrANFXUCVCR94JorEa2wqaw8ZA96gZBh9TqhZAt00WYWV4Wqol8dyK0jdbd4zQdMUL1fJwUCD49fCzOoUgRYGPEXxDoOqLva7dIxQVn9CFqudo2jGm8hk4aAtAtG5iamUch6qsj586KkOpocyceZAZBoyLQByeImOJiK",
+"vr_api_key": "tYJEbEZC36qt0iSPrGUeQQAL6UWe9oadb4S5TV5Sl82D",
+"vr_classifier_id": "model_toretto_957441482"
+}

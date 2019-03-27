@@ -1,0 +1,13 @@
+{
+  "name": "facebook-openwhisk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "author": "",
+  "license": "ALv2",
+  "dependencies": {
+    "redis": "2.7.1",
+    "request": "^2.88.0",
+    "watson-developer-cloud": "3.18.3"
+  }
+}
